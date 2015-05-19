@@ -1,5 +1,5 @@
 # Sunday, June 28, 2015 (Late Afternoon and Evening)
-&nbsp;&nbsp;&nbsp; **4:00pm - 5:00pm** Registration Check-in
+ **4:00pm - 5:00pm** Registration Check-in
 &nbsp;&nbsp;&nbsp; **5:00pm - 6:00pm** Reception 
 &nbsp;&nbsp;&nbsp; **6:00pm - 7:00pm** Dinner
 &nbsp;&nbsp;&nbsp; **7:15pm - 8:00pm** Welcome / Introduction 
