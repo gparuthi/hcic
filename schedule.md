@@ -1,10 +1,10 @@
 # Sunday, June 28, 2015 (Late Afternoon and Evening)
->**4:00pm - 5:00pm** Registration Check-in
->**5:00pm - 6:00pm** Reception 
->**6:00pm - 7:00pm** Dinner
->**7:15pm - 8:00pm** Welcome / Introduction 
->**8:00pm - 9:15pm** Keynote
->> Presenter:  Stuart Card, Senior Research Fellow, Xerox PARC
+* *4:00pm - 5:00pm** Registration Check-in
+* *5:00pm - 6:00pm** Reception 
+* *6:00pm - 7:00pm** Dinner
+* *7:15pm - 8:00pm** Welcome / Introduction 
+* *8:00pm - 9:15pm** Keynote
+  `Presenter:  Stuart Card, Senior Research Fellow, Xerox PARC`
 
 
 # Monday, June 29, 2015 (Full Day)
