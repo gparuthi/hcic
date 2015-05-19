@@ -4,7 +4,7 @@
 * **6:00pm - 7:00pm** Dinner
 * **7:15pm - 8:00pm** Welcome / Introduction 
 * **8:00pm - 9:15pm** Keynote
-  `Presenter:  Stuart Card, Senior Research Fellow, Xerox PARC`
+  `Presenter:  Stuart Card, Senior Research Fellow, Xerox PARC` 
 
 
 # Monday, June 29, 2015 (Full Day)
